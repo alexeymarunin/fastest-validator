@@ -1,5 +1,5 @@
 {
-  "name": "fastest-validator",
+  "name": "fastest-validator2",
   "version": "0.6.17",
   "description": "The fastest JS validator library for NodeJS",
   "main": "dist/index.js",
